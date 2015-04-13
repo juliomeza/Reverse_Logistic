@@ -4,7 +4,7 @@
 # There is an option to enter the NDC instead of UPC
 
 # data base file
-name_file = 'C:/Users/Julio/Dropbox/Woodfield/Promed/Data_Base.txt'
+name_file = 'Data_Base.txt'
 
 # open file (data base)
 data = open(name_file, 'r')
